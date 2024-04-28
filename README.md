@@ -10,8 +10,7 @@ The key twist is using a specific type of neural network called a "semantic segm
 
 - YOLOV8 Image Semantic Segmentation Model
 
-  ＜img src="![val_batch0_pred (1)](https://github.com/dev-pa5an/perceptiveAI/assets/152805932/9a2a0b63-5624-4c61-b66c-dc8206dd6418)
-" width="500" height="300"＞
+  ![val_batch](/Images/val_batch0_pred.jpg | width=100)
   
 - Microsoft KinectV2 with python
 - Depth Estimation Algorithm
