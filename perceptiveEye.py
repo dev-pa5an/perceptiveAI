@@ -32,7 +32,7 @@ class KinectHandler(object):
         self.kinect.close()
 
 def main():
-    model_path = 'last.pt'
+    model_path = 'Weights/last.pt'
     model = YOLO(model_path)
 
     kinect = KinectHandler()
