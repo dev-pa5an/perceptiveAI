@@ -10,7 +10,7 @@ This method is useful for a robot to enhance its perception of the environment w
 
 - YOLOV8 Image Semantic Segmentation Model
 
-  This model is trained using a custom dataset of over 400 images. Ultralytics yolov8's semantic segmentation model parameters are used to train the model. The model itself reached up to 100% confidence accuracy for the validation dataset but only 93% in practice.
+  This model is trained using a custom dataset of over 400 images. Ultralytics yolov8's semantic segmentation model parameters are used to train the model. The model itself reached up to 100% confidence level for the validation dataset but only 93% in practice.
   
   <img src="https://github.com/dev-pa5an/perceptiveAI/blob/main/Images/val_batch0_pred.jpg" width="500" height="300" />
 
