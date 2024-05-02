@@ -29,7 +29,11 @@ This method is useful for a robot to enhance its perception of the environment w
 
 ## Run Locally
 
-'''
-git clone https://github.com/dev-pa5an/perceptiveAI
-'''
+
+```bash
+  git clone https://github.com/dev-pa5an/perceptiveAI
+```
+```bash
+  python perceptiveEye.py
+```
 
