@@ -22,3 +22,18 @@ This method is useful for a robot to enhance its perception of the environment w
   
 - Depth Estimation Algorithm
 
+  When mapping the pixel coordinates of the image frame to the depth frame, the frame size difference results in the inclusion of depth values from areas outside the identified object in the depth array. This error can be clearly identified in the following figure.
+  
+   <img src="https://github.com/dev-pa5an/perceptiveAI/blob/main/Images/Difference between the image frame and the depth frame after masking the objec.png" width="500" height="300" />
+
+
+## Run Locally
+
+
+```bash
+  git clone https://github.com/dev-pa5an/perceptiveAI
+```
+```bash
+  python perceptiveEye.py
+```
+
