@@ -1,5 +1,5 @@
 
-# Object depth estimation of color Images using a depth camera and a image semantic segmentation model in Computer Vision with minimum latency.
+# Object depth estimation of color Images using a depth camera and an image semantic segmentation model in Computer Vision with minimum latency.
 
 The key twist is using a specific type of neural network called a "semantic segmentation network" to improve the accuracy of the distance estimation. This network learns to categorize different parts of the image (like walls, furniture, people) and uses that information to estimate the average depth to those objects.
 This method is useful for a robot to enhance its perception of the environment while it is moving, getting depth estimations for particular objects in the environment. When the environment is dynamic and complex, indoor navigation tasks can also utilize this method.
